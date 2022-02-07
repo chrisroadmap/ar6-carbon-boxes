@@ -1,4 +1,4 @@
-# name: ar6-carbon-boxes
+name: ar6-carbon-boxes
 channels:
   - chrisroadmap
   - conda-forge
