@@ -5,6 +5,7 @@ Thumbs.db
 # Big input files that can be downloaded and don't need committing
 data_input/rcmip/
 data_input/fair-1.6.2/
+data_output/fair-1.6.4/
 
 # You may want to ignore some large data output files too if they are reproducible
 # data_output/<insert subdir here>
